@@ -4,6 +4,7 @@ const index = () => {
   return (
     <div>
       <h1>sss</h1>
+      <h2>hii</h2>
     </div>
   );
 };
